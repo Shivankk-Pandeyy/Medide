@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Medide/static/css/main.30321238.css",
+    "main.js": "/Medide/static/js/main.89b2b75b.js",
+    "static/media/c1.png": "/Medide/static/media/c1.05884a960edeb838b91b.png",
+    "static/media/frame.png": "/Medide/static/media/frame.6afc9e30d9b15863ee13.png",
+    "static/media/c2.png": "/Medide/static/media/c2.3b215440e8ed87aa8145.png",
+    "static/media/c3.png": "/Medide/static/media/c3.249e34822aaad8a4e120.png",
+    "static/media/medidelogo.png": "/Medide/static/media/medidelogo.3b30f95e6b725e6a6645.png",
+    "index.html": "/Medide/index.html",
+    "main.30321238.css.map": "/Medide/static/css/main.30321238.css.map",
+    "main.89b2b75b.js.map": "/Medide/static/js/main.89b2b75b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30321238.css",
+    "static/js/main.89b2b75b.js"
+  ]
+}
