@@ -56,7 +56,7 @@ const App = () => {
             showThumbs={false}
             autoPlay={true}
             transitionTime={1000}
-            interval={2000}
+            interval={3500}
             infiniteLoop={true}
             showStatus={false}
             showIndicators={true}
@@ -92,6 +92,36 @@ const App = () => {
         <p>medical needs and services,</p>
         <p>ensuring you acess the care you</p>
         <p>require with ease.</p>
+    </div>
+    <div className='impact-11'>
+        <div>
+        <img src={c1} alt='OUR SERVICES'></img>
+        </div>
+        <p>Book With Confidence</p>
+        <p>Seletct Your desired medical facility</p>
+        <p>and secure your appointment online</p>
+        <p>through Medide's user-friendly</p>
+        <p>interface.</p>
+    </div>
+    <div className='impact-11'>
+        <div>
+        <img src={c2} alt='OUR SERVICES'></img>
+        </div>
+        <p>Easy Payments,Seamless Experience</p>
+        <p>Medide offers a range of payment</p>
+        <p>options,making setting your</p>
+        <p>appointments simple and </p>
+        <p>convenient.</p>
+    </div>
+    <div className='impact-11'>
+        <div>
+        <img src={c3} alt='OUR SERVICES'></img>
+        </div>
+        <p>Results at Your Fingertips</p>
+        <p>Say hello to convinience - Medide</p>
+        <p>delivers your test results directly to</p>
+        <p>your account,keeping you</p>
+        <p> informed and enpowered.</p>
     </div>
         </Carousel>
     
