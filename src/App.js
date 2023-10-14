@@ -37,16 +37,17 @@ const App = () => {
     </div>
     <div className='about' data-aos="zoom-in">
         <h2 data-aos="zoom-out"> About <span data-aos="zoom-in">Medide</span></h2>
-        <p data-aos="zoom-in">Born out of VIT's innovation hub,Medide is a forwawrd looking startup transforming how we experience </p>
+        <p data-aos="zoom-in">Born out of VIT's innovation hub,Medide is a forwawrd looking startup transforming how we experience healthcare.</p>
         <p data-aos="zoom-in">
-            healthcare.We're your bridege to essesntial medical services,like diagnostic centers,blood banks,
+            We're your bridege to essesntial medical services,like diagnostic centers,blood banks, specially hospitals , and Counselling centers - all within 50km.
         </p>
         <p data-aos="zoom-in">
-            specially hospitals , and Counselling centers - all within 50km.Say goodbye to Apppointment 
+            Say goodbye to Apppointment Headaches.With Medide,booking online is a breeze,saving you from long waits and far trips.
         </p>
-        <p data-aos="zoom-in">Headaches.With Medide,booking online is a breeze,saving you from long waits and far trips.We're</p>
-        <p data-aos="zoom-in">all about simplicity - for both medical facilities and users.No more appoinments stress.Get results</p>
-        <p data-aos="zoom-in">online,handle payments effortlessly and book with a click</p>
+        <p data-aos="zoom-in">
+        We're all about simplicity - for both medical facilities and users.No more appoinments stress.
+    </p>
+        <p data-aos="zoom-in">Get results online,handle payments effortlessly and book with a click</p>
     </div>
     <div className='impact' data-aos="zoom-in">
         <h2 data-aos="flip-left">Our <span data-aos="flip-left">Impact</span></h2>
