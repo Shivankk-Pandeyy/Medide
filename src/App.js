@@ -27,7 +27,7 @@ const App = () => {
             <br></br>
             <br></br>
             <p>Discover & research diagnostics,blood banks,</p>
-            <p>hospitals,counseling wihin 50km.</p>
+            <p>hospitals,counseling within 50km.</p>
             <p>Effortlessly book appointments online or set </p>
             <p>Your Location</p>
         </motion.div>
@@ -67,11 +67,8 @@ const App = () => {
         <img src={c1} alt='OUR SERVICES'></img>
         </div>
         <p>Dicover Medical Services Near You</p>
-        <p>Medide brings you a seamless way to</p>
-        <p>find diagnostic center,blood banks,</p>
-        <p>specialty hospitals and counselling</p>
-        <p>centers within 50km of your current</p>
-        <p>location.</p>
+        <p>Medide brings you a seamless way to find diagnostic center,blood banks,specialty hospitals and counselling centers within 50km of your current location.</p>
+        
     </div>
     <div className='impact-11'>
         <div>
